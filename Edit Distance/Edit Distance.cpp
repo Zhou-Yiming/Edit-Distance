@@ -1,5 +1,5 @@
 // Edit Distance.cpp: 定义控制台应用程序的入口点。
-//
+//UTF-8
 
 #include "stdafx.h"
 #define length(a) sizeof(a)
