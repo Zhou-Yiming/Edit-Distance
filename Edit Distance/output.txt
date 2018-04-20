@@ -1,0 +1,2 @@
+
+we get the final result d[5][4] = 4
